@@ -1,7 +1,19 @@
 # diabetes-prediction-ai
-git init
-git remote add origin https://github.com/rathodhardikbhai/diabetes-prediction-ai.git
-git branch -M main
-git add .
-git commit -m "Initial commit - Diabetes Prediction AI"
-git push -u origin main
+# 🩺 Diabetes Prediction AI
+A machine learning web app that predicts the risk of diabetes based on user health data.
+
+## 🚀 Live Demo
+[Click Here to Try](https://your-link.streamlit.app)
+
+## 🔧 Tech Stack
+- Python
+- Streamlit
+- Scikit-learn
+- Pandas
+
+## 📌 Features
+- Input health data to predict diabetes risk
+- Trained Random Forest Classifier
+- Easy-to-use UI
+
+

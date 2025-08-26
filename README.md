@@ -3,7 +3,7 @@
 A machine learning web app that predicts the risk of diabetes based on user health data.
 
 ## 🚀 Live Demo
-[Click Here to Try](https://your-link.streamlit.app)
+[Click Here to Try](https://diabetes-prediction-aitool.streamlit.app)
 
 ## 🔧 Tech Stack
 - Python
